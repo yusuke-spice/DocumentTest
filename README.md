@@ -1,2 +1,2 @@
 # DocumentTest
-Githubでドキュメント管理すうｒ
+Githubでドキュメント管理する
